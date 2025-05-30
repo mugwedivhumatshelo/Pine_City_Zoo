@@ -1,4 +1,4 @@
-Project Title: Zoo Animal Encyclopedia with Weather
+Project Title: Pine City Zoo
 
 Developer: Mugwedi Vhumatshelo
 
@@ -9,7 +9,7 @@ This website is an interactive platform that showcases a collection of zoo anima
 Technologies Used:
 
 - HTML5
-- CSS3
+- CSS
 
 Features:
 
