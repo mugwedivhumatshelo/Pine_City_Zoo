@@ -74,9 +74,9 @@ body {
 #tabs-bottom a {
     float: right;
     display: block;
-    width: 10%;
+    width: 8%;
     height: 35px;
-    font-size: 13px;
+    font-size: 12px;
     font-weight: 200;
     color: white;
     text-align: center; 
@@ -93,7 +93,7 @@ body {
 #tabs-bottom p {
     float: left;
     display: block;
-    width: 20%;
+    width: 15%;
     height: 40px;
     font-size: 11px;
     font-family: 'Courier New', Courier, monospace;
